@@ -1,0 +1,15 @@
+C:\Users\Aluno\Downloads\Exemplo\Exemplo_Construtor\Exemplo_Construtor\bin\Debug\net6.0\Exemplo_Construtor.exe
+C:\Users\Aluno\Downloads\Exemplo\Exemplo_Construtor\Exemplo_Construtor\bin\Debug\net6.0\Exemplo_Construtor.deps.json
+C:\Users\Aluno\Downloads\Exemplo\Exemplo_Construtor\Exemplo_Construtor\bin\Debug\net6.0\Exemplo_Construtor.runtimeconfig.json
+C:\Users\Aluno\Downloads\Exemplo\Exemplo_Construtor\Exemplo_Construtor\bin\Debug\net6.0\Exemplo_Construtor.dll
+C:\Users\Aluno\Downloads\Exemplo\Exemplo_Construtor\Exemplo_Construtor\bin\Debug\net6.0\Exemplo_Construtor.pdb
+C:\Users\Aluno\Downloads\Exemplo\Exemplo_Construtor\Exemplo_Construtor\obj\Debug\net6.0\Exemplo_Construtor.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\Exemplo\Exemplo_Construtor\Exemplo_Construtor\obj\Debug\net6.0\Exemplo_Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\Exemplo\Exemplo_Construtor\Exemplo_Construtor\obj\Debug\net6.0\Exemplo_Construtor.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\Exemplo\Exemplo_Construtor\Exemplo_Construtor\obj\Debug\net6.0\Exemplo_Construtor.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\Exemplo\Exemplo_Construtor\Exemplo_Construtor\obj\Debug\net6.0\Exemplo_Construtor.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Exemplo\Exemplo_Construtor\Exemplo_Construtor\obj\Debug\net6.0\Exemplo_Construtor.dll
+C:\Users\Aluno\Downloads\Exemplo\Exemplo_Construtor\Exemplo_Construtor\obj\Debug\net6.0\refint\Exemplo_Construtor.dll
+C:\Users\Aluno\Downloads\Exemplo\Exemplo_Construtor\Exemplo_Construtor\obj\Debug\net6.0\Exemplo_Construtor.pdb
+C:\Users\Aluno\Downloads\Exemplo\Exemplo_Construtor\Exemplo_Construtor\obj\Debug\net6.0\Exemplo_Construtor.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\Exemplo\Exemplo_Construtor\Exemplo_Construtor\obj\Debug\net6.0\ref\Exemplo_Construtor.dll
