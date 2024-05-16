@@ -1,0 +1,14 @@
+C:\Users\Silvia N. Carvalho\Downloads\Ex_08\Exercicío08\Exercicío08\obj\Debug\net8.0\Exercicío08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvia N. Carvalho\Downloads\Ex_08\Exercicío08\Exercicío08\obj\Debug\net8.0\Exercicío08.AssemblyInfoInputs.cache
+C:\Users\Silvia N. Carvalho\Downloads\Ex_08\Exercicío08\Exercicío08\obj\Debug\net8.0\Exercicío08.AssemblyInfo.cs
+C:\Users\Silvia N. Carvalho\Downloads\Ex_08\Exercicío08\Exercicío08\obj\Debug\net8.0\Exercicío08.csproj.CoreCompileInputs.cache
+C:\Users\Silvia N. Carvalho\Downloads\Ex_08\Exercicío08\Exercicío08\bin\Debug\net8.0\Exercicío08.exe
+C:\Users\Silvia N. Carvalho\Downloads\Ex_08\Exercicío08\Exercicío08\bin\Debug\net8.0\Exercicío08.deps.json
+C:\Users\Silvia N. Carvalho\Downloads\Ex_08\Exercicío08\Exercicío08\bin\Debug\net8.0\Exercicío08.runtimeconfig.json
+C:\Users\Silvia N. Carvalho\Downloads\Ex_08\Exercicío08\Exercicío08\bin\Debug\net8.0\Exercicío08.dll
+C:\Users\Silvia N. Carvalho\Downloads\Ex_08\Exercicío08\Exercicío08\bin\Debug\net8.0\Exercicío08.pdb
+C:\Users\Silvia N. Carvalho\Downloads\Ex_08\Exercicío08\Exercicío08\obj\Debug\net8.0\Exercicío08.dll
+C:\Users\Silvia N. Carvalho\Downloads\Ex_08\Exercicío08\Exercicío08\obj\Debug\net8.0\refint\Exercicío08.dll
+C:\Users\Silvia N. Carvalho\Downloads\Ex_08\Exercicío08\Exercicío08\obj\Debug\net8.0\Exercicío08.pdb
+C:\Users\Silvia N. Carvalho\Downloads\Ex_08\Exercicío08\Exercicío08\obj\Debug\net8.0\Exercicío08.genruntimeconfig.cache
+C:\Users\Silvia N. Carvalho\Downloads\Ex_08\Exercicío08\Exercicío08\obj\Debug\net8.0\ref\Exercicío08.dll
