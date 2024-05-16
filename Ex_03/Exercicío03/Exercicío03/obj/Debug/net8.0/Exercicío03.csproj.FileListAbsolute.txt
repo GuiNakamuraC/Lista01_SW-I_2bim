@@ -1,0 +1,14 @@
+C:\Users\Silvia N. Carvalho\Downloads\Ex_03\Exercicío03\Exercicío03\bin\Debug\net8.0\Exercicío03.exe
+C:\Users\Silvia N. Carvalho\Downloads\Ex_03\Exercicío03\Exercicío03\bin\Debug\net8.0\Exercicío03.deps.json
+C:\Users\Silvia N. Carvalho\Downloads\Ex_03\Exercicío03\Exercicío03\bin\Debug\net8.0\Exercicío03.runtimeconfig.json
+C:\Users\Silvia N. Carvalho\Downloads\Ex_03\Exercicío03\Exercicío03\bin\Debug\net8.0\Exercicío03.dll
+C:\Users\Silvia N. Carvalho\Downloads\Ex_03\Exercicío03\Exercicío03\bin\Debug\net8.0\Exercicío03.pdb
+C:\Users\Silvia N. Carvalho\Downloads\Ex_03\Exercicío03\Exercicío03\obj\Debug\net8.0\Exercicío03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvia N. Carvalho\Downloads\Ex_03\Exercicío03\Exercicío03\obj\Debug\net8.0\Exercicío03.AssemblyInfoInputs.cache
+C:\Users\Silvia N. Carvalho\Downloads\Ex_03\Exercicío03\Exercicío03\obj\Debug\net8.0\Exercicío03.AssemblyInfo.cs
+C:\Users\Silvia N. Carvalho\Downloads\Ex_03\Exercicío03\Exercicío03\obj\Debug\net8.0\Exercicío03.csproj.CoreCompileInputs.cache
+C:\Users\Silvia N. Carvalho\Downloads\Ex_03\Exercicío03\Exercicío03\obj\Debug\net8.0\Exercicío03.dll
+C:\Users\Silvia N. Carvalho\Downloads\Ex_03\Exercicío03\Exercicío03\obj\Debug\net8.0\refint\Exercicío03.dll
+C:\Users\Silvia N. Carvalho\Downloads\Ex_03\Exercicío03\Exercicío03\obj\Debug\net8.0\Exercicío03.pdb
+C:\Users\Silvia N. Carvalho\Downloads\Ex_03\Exercicío03\Exercicío03\obj\Debug\net8.0\Exercicío03.genruntimeconfig.cache
+C:\Users\Silvia N. Carvalho\Downloads\Ex_03\Exercicío03\Exercicío03\obj\Debug\net8.0\ref\Exercicío03.dll
