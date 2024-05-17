@@ -1,0 +1,14 @@
+C:\Users\Silvia N. Carvalho\Downloads\Exercicíos_C#\Ex_11\Exercicio11\Exercicio11\bin\Debug\net8.0\Exercicio11.exe
+C:\Users\Silvia N. Carvalho\Downloads\Exercicíos_C#\Ex_11\Exercicio11\Exercicio11\bin\Debug\net8.0\Exercicio11.deps.json
+C:\Users\Silvia N. Carvalho\Downloads\Exercicíos_C#\Ex_11\Exercicio11\Exercicio11\bin\Debug\net8.0\Exercicio11.runtimeconfig.json
+C:\Users\Silvia N. Carvalho\Downloads\Exercicíos_C#\Ex_11\Exercicio11\Exercicio11\bin\Debug\net8.0\Exercicio11.dll
+C:\Users\Silvia N. Carvalho\Downloads\Exercicíos_C#\Ex_11\Exercicio11\Exercicio11\bin\Debug\net8.0\Exercicio11.pdb
+C:\Users\Silvia N. Carvalho\Downloads\Exercicíos_C#\Ex_11\Exercicio11\Exercicio11\obj\Debug\net8.0\Exercicio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvia N. Carvalho\Downloads\Exercicíos_C#\Ex_11\Exercicio11\Exercicio11\obj\Debug\net8.0\Exercicio11.AssemblyInfoInputs.cache
+C:\Users\Silvia N. Carvalho\Downloads\Exercicíos_C#\Ex_11\Exercicio11\Exercicio11\obj\Debug\net8.0\Exercicio11.AssemblyInfo.cs
+C:\Users\Silvia N. Carvalho\Downloads\Exercicíos_C#\Ex_11\Exercicio11\Exercicio11\obj\Debug\net8.0\Exercicio11.csproj.CoreCompileInputs.cache
+C:\Users\Silvia N. Carvalho\Downloads\Exercicíos_C#\Ex_11\Exercicio11\Exercicio11\obj\Debug\net8.0\Exercicio11.dll
+C:\Users\Silvia N. Carvalho\Downloads\Exercicíos_C#\Ex_11\Exercicio11\Exercicio11\obj\Debug\net8.0\refint\Exercicio11.dll
+C:\Users\Silvia N. Carvalho\Downloads\Exercicíos_C#\Ex_11\Exercicio11\Exercicio11\obj\Debug\net8.0\Exercicio11.pdb
+C:\Users\Silvia N. Carvalho\Downloads\Exercicíos_C#\Ex_11\Exercicio11\Exercicio11\obj\Debug\net8.0\Exercicio11.genruntimeconfig.cache
+C:\Users\Silvia N. Carvalho\Downloads\Exercicíos_C#\Ex_11\Exercicio11\Exercicio11\obj\Debug\net8.0\ref\Exercicio11.dll
